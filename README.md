@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Motasem Dayeh
+# 👋 Hi there, I'm Motasem Daya
 
 Welcome to my GitHub! I'm a passionate MSc Computer Science student at St. Mary’s University, London 🇬🇧, and a Teaching & Research Assistant at Birzeit University 🇵🇸. I’m deeply involved in full-stack development, AI-driven solutions, and user-centred design. Currently, I’m exploring real-world applications of machine learning in healthcare, particularly cancer diagnosis and risk prediction.
 
