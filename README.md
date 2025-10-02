@@ -20,12 +20,12 @@
 ## 🎓 MSc Dissertation Highlight  
 
 📌 **Predicting Gastric Cancer from Anaemia Profiles in Routine CBC Panels**  
-- Developed an **end-to-end ML pipeline** (data cleaning, feature engineering, model training, evaluation).  
+- Developed an **end-to-end ML pipeline** (data cleaning → feature engineering → model training → evaluation).  
 - Applied **Logistic Regression, Random Forest, and XGBoost**, achieving **85%+ F1-score and 90% ROC-AUC**.  
 - Integrated **explainable AI (SHAP)** for feature importance to identify key anaemia-related markers.  
-- Research contributes toward **low-cost, non-invasive early detection** of gastric cancer.  
+- Contributes toward **low-cost, non-invasive early detection** of gastric cancer.  
 
-🚀 *This project represents the fusion of my interests in data science, healthcare AI, and impactful research.*  
+🚀 *This project reflects my passion for applying machine learning in healthcare to create impactful, real-world solutions.*  
 
 ---
 
@@ -70,3 +70,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MotasemDayeh&row=1&column=6&margin-w=10&margin-h=10&theme=darkhub" alt="trophies"/>
 </p>
+
+---
+
+## 📫 Get in touch
+- 🌐 [LinkedIn](https://www.linkedin.com/in/motasemdayeh/)  
+- 📧 Email: **motasemd2001@gmail.com**  
+- 💡 Open to collaborations in **data engineering**, **AI/ML research**, and **full-stack development**.  
