@@ -17,6 +17,13 @@
 
 ---
 
+### 🎓 Education
+- **MSc Computer Science (Distinction)** — St Mary’s University, London (2024–2025)  
+- **BSc Computer Science (93.8/100)** — Hebron University (2019–2023)  
+- **Exchange (Distinction)** — University of Bradford (2022–2023)
+
+---
+
 ## 🎓 MSc Dissertation Highlight  
 
 📌 **Predicting Gastric Cancer from Anaemia Profiles in Routine CBC Panels**  
@@ -53,8 +60,6 @@
 ---
 
 ## 🏆 Highlights & Awards
-- 🎓 MSc Computer Science (Distinction), St Mary’s University London  
-- 🎓 BSc Computer Science (93.8/100), Hebron University  
 - 🌍 HESPAL Scholarship Recipient (British Council)  
 - 🔬 Erasmus Exchange (University of Bradford, UK)  
 - 📜 Machine Learning Essentials (Gaza Sky Geeks, 2025)  
