@@ -1,50 +1,76 @@
-# 👋 Hi there, I'm Motasem Daya
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MotasemDayeh&label=Profile%20views&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Location-London%2C%20UK-blue" />
+  <img src="https://img.shields.io/badge/Status-MSc%20Computer%20Science%20(Distinction)-success" />
+</p>
 
-Welcome to my GitHub! I'm a passionate MSc Computer Science student at St. Mary’s University, London 🇬🇧, and a Teaching & Research Assistant at Birzeit University 🇵🇸. I’m deeply involved in full-stack development, AI-driven solutions, and user-centred design. Currently, I’m exploring real-world applications of machine learning in healthcare, particularly cancer diagnosis and risk prediction.
-
----
-
-## 🔬 Current Focus
-
-🎓 **Academic Research**  
-- Dissertation on **machine learning for early detection of gastric cancer** using anaemia-related CBC data  
-
-💻 **Projects**  
-- 🧮 SmartSpend: A full-stack personal finance tracker with budgeting, analytics, and JWT-secured login  
-- 🧠 *Knights of Eldoria*: A 2D AI simulation using Python & MVC for decision-making agents 
-- 🧪 UX case study on **MyFitnessPal**, with heuristic evaluations and accessibility improvements 
-
----
-
-## 🧠 Technical Skills
-
-**Languages:** Python, Java, JavaScript, SQL  
-**Frameworks & Tools:** React, Node.js, Express.js, SQLite, MongoDB, SQLAlchemy, Ant Design, JWT, bcrypt  
-**Architecture & Design:** MVC, Simple Factory Pattern, UML, 3-tier Architecture  
-**Data & AI:** Pandas, Scikit-learn, NumPy, Tkinter (for simulation UI), Kaggle datasets  
-
----
-
-## 📚 Recent Highlights
-
-- 🧾 Submitted academic reports using APA referencing and scientific evaluation methods  
-- 🛡️ Implemented secure authentication with JWT and password hashing in production-ready apps  
-- 📊 Designed data analytics dashboards with responsive charts for personal finance insights  
-- 🧑‍🏫 Assisted teaching in computer systems and software engineering at the university level  
-
----
-
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/motasemdayeh/)  
-- 💡 Sharing insights and visual posts about programming, AI, and system design  
-- 📧 Reach out for collaborations, research ideas, or just to say hi!
-
----
-
-## 🧰 GitHub Stats (Optional)
+<h1 align="center">Hi, I'm Motasem Dayeh</h1>
+<h3 align="center">Software Engineer · Data/ML · Full-Stack</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motasemdayeh&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasemdayeh&layout=compact" />
+  <a href="https://www.linkedin.com/in/motasemdayeh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin" /></a>
+  <a href="mailto:motasemd2001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-red?logo=gmail" /></a>
+  <a href="https://github.com/MotasemDayeh"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
 </p>
+
+---
+
+### 🔭 What I’m working on
+- Building data pipelines and ML experiments (classification, XGBoost, trees) with Python & SQL.
+- Full-stack projects with **React · Node/Express · SQLite/MongoDB**.
+- Turning academic ML work in healthcare into reproducible code and dashboards.
+
+---
+
+### 🎓 Education
+- **MSc Computer Science (Distinction)** — St Mary’s University, London (2024–2025)  
+- **BSc Computer Science (93.8/100)** — Hebron University (2019–2023)  
+- **Exchange (Distinction)** — University of Bradford (2022–2023)
+
+---
+
+### 🧰 Tech Stack
+**Languages:** Python, JavaScript/TypeScript, Java, C/C++, C#, PHP, SQL  
+**Data & ML:** pandas, NumPy, scikit-learn, XGBoost, data preprocessing, evaluation/interpretability  
+**Databases:** MySQL, SQLite, PostgreSQL, BigQuery/SQL, Oracle, MongoDB, Firebase  
+**Web:** React, Node.js, Express, HTML/CSS, JWT, bcrypt, Ant Design  
+**DevOps & Tools:** Docker, Airflow, Git/GitHub, GCP, Azure, Google Analytics 360  
+**Architecture:** MVC, 3-tier, Simple Factory, UML, unit testing
+
+---
+
+### 🏆 Highlights & Awards
+- HESPAL Scholarship (MSc Computer Science, St Mary’s)  
+- Erasmus Exchange — University of Bradford  
+- Machine Learning Essentials (Gaza Sky Geeks, 2025)
+
+---
+
+### 📌 Selected Projects
+- **Smart Parking System** — Android + Raspberry Pi sensors with **Firebase** realtime backend for slot detection and management.  
+- **Personal Tracking System** — **React** front-end with **MongoDB** backend, live dashboards and visualized location history.  
+- **Expense Tracker** — Normalized **SQLite** schema + SQLAlchemy (Core & ORM), REST APIs, CRUD, analytics reporting.  
+- **Gastric Cancer Risk (MSc)** — End-to-end data pipeline, feature engineering, and ML models for early risk prediction.
+
+---
+
+### 📫 Get in touch
+- Email: **motasemd2001@gmail.com**  
+- LinkedIn: **/in/motasemdayeh/**  
+- I’m happy to collaborate on **data engineering**, **ML**, and **full-stack** work.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MotasemDayeh&show_icons=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotasemDayeh&layout=compact" alt="top langs" />
+</p>
+
+<!-- Optional: Trophies (fun visual) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MotasemDayeh&row=1&column=6&margin-w=10&margin-h=10" alt="trophies" />
+</p>
+
+---
