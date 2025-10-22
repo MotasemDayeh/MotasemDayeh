@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Degree-MSc%20Computer%20Science%20(Distinction)-success?style=flat-square" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Motasem Dayeh</h1>
+<h1 align="center">👋 Hi, I'm Motasem Daya</h1>
 <h3 align="center">Software Engineer · Data Scientist · Full-Stack Developer</h3>
 
 <p align="center">
